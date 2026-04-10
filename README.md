@@ -16,8 +16,21 @@
 ## 📦 Files included
 
 - `xy_oscilloscope.py` — main real-time audio visualizer script.
+- `interactive_demo.py` — raw interactive terminal demo with synthetic Lissajous animation.
 - `requirements.txt` — Python dependencies used by the project.
 - `README.txt` — legacy animated plain-text project description.
+
+---
+
+## 🧪 Raw interactive demo
+
+Try the portable demo without needing audio capture:
+
+```bash
+python interactive_demo.py
+```
+
+This script renders a live braille oscilloscope preview using synthetic waveforms.
 
 ---
 
